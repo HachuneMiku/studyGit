@@ -1,2 +1,2 @@
 # studyGit
-study Git command
+学习git命令的仓库
